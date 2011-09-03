@@ -7,6 +7,8 @@ package com.antor.helloworld;
  * @author Andrey Teteria
  * 
  */
+
+// other conflict
 public class Knife {
 
 	private double length_;
