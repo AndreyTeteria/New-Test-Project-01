@@ -13,6 +13,9 @@ package com.antor.helloworld;
 // other conflict
 public class Knife {
 
+	
+	//
+	
 	private double length_;
 	@Override
 	public String toString() {
