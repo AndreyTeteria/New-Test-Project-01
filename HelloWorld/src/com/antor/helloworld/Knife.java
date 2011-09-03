@@ -9,6 +9,8 @@ package com.antor.helloworld;
  */
 
 // conflict
+
+// other conflict
 public class Knife {
 
 	private double length_;
